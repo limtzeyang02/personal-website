@@ -5,7 +5,7 @@ export default defineConfig({
 	lang: "en-GB",
 	base: "/personal-website/",
 	title: "Lim Tze Yang",
-	titleTemplate: "AI Engineer",
+	titleTemplate: "Computer Scientist; AI Engineer; Software Engineer",
 	description:
 		"A portfolio website showcasing Lim Tze Yang's achievements, experiences, and qualifications",
 	head: [["link", { rel: "icon", href: "/personal-website/favicon.ico" }]],
